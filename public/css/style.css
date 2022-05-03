@@ -1,0 +1,58 @@
+.card {
+    margin: 0 auto;
+    margin-top: 1em;
+    width: 80%;
+}
+
+.text-white a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.card .lienRecette {
+    color: #000;
+    text-decoration: none;
+}
+
+.col a {
+    color: #000;
+    text-decoration: none;
+}
+
+#logo {
+    width: 25px;
+    margin-right: 1em;
+}
+
+.card-text p {
+    margin-bottom: 0;
+}
+
+.ingredient {
+    width: 100%;
+    border: none;
+}
+
+.col-6 h5 {
+    margin-top: 1em;
+    text-align: center;
+}
+
+.list-group {
+    margin: 0 auto;
+}
+
+.badge {
+    color: #000;
+}
+
+.photoRecette {
+    text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+
+    body {
+        font-size: 12px;
+    }
+}
